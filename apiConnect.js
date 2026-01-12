@@ -6,6 +6,9 @@ export const api =  axios.create({
     headers: { accept: "application/json", "content-type": "application/json" },
     // timeout: 2000,
 });
+
+VITE_API_URL=http://localhost:8000/api/v1/
+
 npm i axios
 npm i react-toastify
 npm i @tanstack/react-query
