@@ -15,6 +15,8 @@ npm i @tanstack/react-query
 npm i @tanstack/react-form
 npm i zustand
 npm i tailwind-merge
+npm i lucide-react
+<Trash2 />
 
 app.use(
   cors({
